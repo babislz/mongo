@@ -1,0 +1,32 @@
+1° Passo -
+---------------------------------------------------------
+
+1 2 3 4 5 6 7 8 9 - 10 11
+| | | | | | | | |
+| | | | | | | | |_ 2 * 9
+| | | | | | | |_ 3 * 8
+| | | | | | |_ 4 * 7
+| | | | | |_ 5 * 6
+| | | | |_ 6 * 5
+| | | |_ 7 * 4
+| | |_ 8 * 3
+| |_ 9 * 2
+|_ 10 * 1
+
+---------------------------------------------------------
+2° Passo -
+Soma do total do resultado de todas as multiplicações
+---------------------------------------------------------
+3° Passo -
+Divisão do total por 11(que é o total de números presente
+em um CPF)
+---------------------------------------------------------
+4° Passo
+Subtração do resto dessa divisão por 11, o resultado 
+deverá ser igual ao número presente na posição 10, porém
+caso o resto for igual a 1 ou 0, o número presente na po-
+sição 10 deverá ser igual a 0
+---------------------------------------------------------
+5° Passo
+Mesmo que o passo anterior po´rem adicionando um ao limite
+do 'for'.

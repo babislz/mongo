@@ -1,5 +1,5 @@
-name: {Continuos Deploy}
-on: {push}
+name: Continuos Deploy
+on: push
 
 jobs:
   continuos-integration:
